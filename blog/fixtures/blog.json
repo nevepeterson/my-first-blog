@@ -1,0 +1,57 @@
+[
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "author": 1,
+    "title": "My first blog post :-)",
+    "text": "This is my first blog post.\r\nI don't usually use capital letters\r\nbye \r\nneve",
+    "created_date": "2016-09-04T12:55:36Z",
+    "published_date": "2016-09-04T13:00:35Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "author": 1,
+    "title": "My HP blog post :-)",
+    "text": "I adore Harry Potter .\r\nMy favorite character is Ginny Weasley.  \r\nI have read and watched all the books and films.\r\nI have even read the cursed child.",
+    "created_date": "2016-09-04T13:00:40Z",
+    "published_date": "2016-09-04T13:10:19Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "author": 1,
+    "title": "short post  :-)",
+    "text": "This is short. \r\nI like short.\r\nsorry quite boring",
+    "created_date": "2016-09-04T13:10:28Z",
+    "published_date": "2016-09-04T13:13:20Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "author": 1,
+    "title": "unpublished post",
+    "text": "Not published\r\nMight seem a bit boring\r\nbyesie bye",
+    "created_date": "2016-09-04T13:14:16Z",
+    "published_date": null
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "author": 1,
+    "title": "Sample title",
+    "text": "Test",
+    "created_date": "2016-09-04T15:44:24.412Z",
+    "published_date": null
+  }
+}
+]
