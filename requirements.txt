@@ -1,5 +1,2 @@
-django~=1.9.0
-dj-database-url==0.4.1
-gunicorn==19.6.0
+-r requirements-common.txt
 psycopg2==2.6.1
-whitenoise==3.2.1
